@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Roboto';
-    src: url('Roboto-Bold.woff2') format('woff2'),
+    src: url('./fonts/Roboto-Bold.woff2') format('woff2'),
         url('Roboto-Bold.woff') format('woff'),
         url('Roboto-Bold.ttf') format('truetype');
     font-weight: bold;
@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Roboto';
-    src: url('Roboto-Regular.woff2') format('woff2'),
+    src: url('./fonts/Roboto-Regular.woff2') format('woff2'),
         url('Roboto-Regular.woff') format('woff'),
         url('Roboto-Regular.ttf') format('truetype');
     font-weight: normal;
@@ -20,9 +20,9 @@
 
 @font-face {
     font-family: 'Roboto';
-    src: url('Roboto-Thin.woff2') format('woff2'),
-        url('Roboto-Thin.woff') format('woff'),
-        url('Roboto-Thin.ttf') format('truetype');
+    src: url('./fonts/Roboto-Thin.woff2') format('woff2'),
+        url('./fonts/Roboto-Thin.woff') format('woff'),
+        url('./fonts/Roboto-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
